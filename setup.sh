@@ -24,7 +24,8 @@ else
         else
             echo "You have cancelled the installation, please install git via Xcode-tools or otherwise to run this script."
             exit
-        fi fi
+        fi
+fi
 
 
 # install homebrew if not already installed
